@@ -1,0 +1,9 @@
+openai
+scikit-learn
+scipy
+pandas
+matplotlib
+requests
+tqdm
+fasttext
+backoff

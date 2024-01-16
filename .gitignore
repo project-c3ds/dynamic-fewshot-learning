@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# predictions subdirectory inside the project
+benchmarks/data/predictions/*
+
+
 # C extensions
 *.so
 
